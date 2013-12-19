@@ -1,0 +1,4 @@
+SimplePaypal
+============
+
+SimplePaypal Yii Module
