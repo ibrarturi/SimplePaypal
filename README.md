@@ -28,7 +28,7 @@ Tested with Yii 1.1.10 and 1.1.12. may work with other versions
 ```
 
 **Usage**
-* Payal Test
+* Payal Test Page
 
 ```
 public function actionPaypalTest() {
