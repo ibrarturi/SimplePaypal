@@ -1,7 +1,7 @@
 SimplePaypal Yii Module
 ============
 
-Yii framework simple module for paypal with paypal setting section via user interface
+Yii framework simple module for paypal with paypal setting page via user interface
 
 After installing this module user will be able to add/update changes via user interface and these settings will be used for setting sandbox and live paypal from interface. You can also set the 'return', 'cancel' and 'notify' urls.
 
