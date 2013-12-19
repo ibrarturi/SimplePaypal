@@ -11,7 +11,7 @@ Tested with Yii 1.1.10 and 1.1.12. may work with other versions
 
 **Installation**
 * Extract the file under protected/modules folder.
-* Import two table sql into your database; sql included with in the simole module > data folder
+* Import two tables sql into your database; sql included with in the simple module > data folder
 * In main.php file:
 
 ```
